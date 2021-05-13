@@ -1,5 +1,5 @@
 - :) I like real science and technology... I like to see my programs working
-- 🌱 I'm currently learning ... Node JS,
+- 🌱 I'm currently learning ... Python
 - 💞️ I’m looking to ... automatic any tasks in my job with python.
 - 📫 How to reach me ...email- leandro.dejesus@outlook.com.br
 
