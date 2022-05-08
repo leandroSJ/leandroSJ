@@ -30,7 +30,7 @@
 
 ### My setup
  
- <img src="https://raw.githubusercontent.com/leandroSJ/leandroSJ/main/specific.png" alt="home-os">
+ <img src="https://raw.githubusercontent.com/leandroSJ/leandroSJ/main/specific-2.png" alt="home-os">
 
  > I admit it's not much, but I can be very productive with these settings, if you can do shit on a shitty pc, you'll do shit on a top pc, if you learn to optimize your apps and programs, and if you know how to configure one machine from scratch and optimize it for your everyday use, so you can do anything on any machine
  
