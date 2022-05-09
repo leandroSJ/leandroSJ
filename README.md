@@ -1,4 +1,8 @@
-# Welcome, this my workstation to study programming.
+# Welcome, this is my workstation to study programming.
+- [x] I live in Brazil 
+- [X] I am a native Portuguese speaker
+- [x] I am learning English
+- [x] exposure to the language everyday, sorry for the bad grammar.
  
  <div>
   <a href="https://github.com/leandroSJ">
@@ -33,6 +37,13 @@
  <img src="https://raw.githubusercontent.com/leandroSJ/leandroSJ/main/specific-2.png" alt="home-os">
 
  > I admit it's not much, but I can be very productive with these settings, if you can do shit on a shitty pc, you'll do shit on a top pc, if you learn to optimize your apps and programs, and if you know how to configure one machine from scratch and optimize it for your everyday use, so you can do anything on any machine
+ 
+ 
+ ### Environment development
+ 
+ <img src="https://raw.githubusercontent.com/leandroSJ/leandroSJ/main/lunar_vim-1.png" alt="lunar vim editor">
+ 
+ > looking for an alternative to vscode I found this fork of the vim editor, but more updated with lsp servers, I feel like I'm using vscode with some more features.
  
 - [x] Busca uma pasta designada em algum local especificado pelo usuário  no arquivo configurar-bakckup.yml
 
