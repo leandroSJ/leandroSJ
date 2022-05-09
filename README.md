@@ -45,24 +45,4 @@
  
  > looking for an alternative to vscode I found this fork of the vim editor, but more updated with lsp servers, I feel like I'm using vscode with some more features.
  
-- [x] Busca uma pasta designada em algum local especificado pelo usuário  no arquivo configurar-bakckup.yml
-
-
-## 💻 Pré-requisitos
-
-Antes de começar, verifique se você atendeu aos seguintes requisitos:
-<!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
-* Instalar a versão mais recente do `python`. em https://www.python.org/
-
-## 🚀 Instalando <Backup_NFCE>
-
-Para instalar o <Backup_NFCE>, siga estas etapas:
-
-```
-
-```
-## 📝 Licença
-
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
-
-[⬆ Voltar ao topo](#nome-do-projeto)<br>
+[⬆ Back ao top](#LeandroSJ)<br>
