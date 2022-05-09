@@ -44,5 +44,3 @@
  <img src="https://raw.githubusercontent.com/leandroSJ/leandroSJ/main/lunar_vim-1.png" alt="lunar vim editor">
  
  > looking for an alternative to vscode I found this fork of the vim editor, but more updated with lsp servers, I feel like I'm using vscode with some more features.
- 
-[⬆ Back ao top](#LeandroSJ)<br>
