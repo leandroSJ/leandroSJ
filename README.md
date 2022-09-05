@@ -2,6 +2,7 @@
 - [x] I live in Brazil 
 - [X] I am a native Portuguese speaker
 - [x] I am learning English
+- [x] I’m studying Computer Science
 - [x] exposure to the language everyday, sorry for the bad grammar.
  
  <div>
