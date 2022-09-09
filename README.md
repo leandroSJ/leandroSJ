@@ -11,9 +11,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroSJ&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Leandro_skils-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Leandro_skils-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Leandro_skils-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Leandro_skils-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
 </div>
   
@@ -29,19 +26,11 @@
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
  
-<img src="https://raw.githubusercontent.com/leandroSJ/leandroSJ/main/os-home.png" alt="home-os">
+<img src="https://raw.githubusercontent.com/leandroSJ/leandroSJ/main/desktop.png" alt="home-os">
 
-> The year is 2022 I just migrated from operating system, leaving ubuntu 18.04 LTS to ArchLinux with gnome desktop and its utilities, I'm loving this new system, since the installation I could see that there was something different, it has the do-it-yourself philosophy I really like that, I like the daily challenges to fix something.
-
+> Back to the roots, after a small technical problem with my old and warrior notebook, I came back with a new configuration and a new operating system, I must admit that I haven't been very pleased with pop-os it changes a lot of gnome and I particularly don't like it , I like classic gnome with my own modifications and shortcuts customized by me to satisfy my personal taste, I'm seriously thinking about going back to Arch, for now I have a 120gb ssd I intend to upgrade to a 500gb nvme ssd in the meantime I'm preparing my temporary development environment.
 ### My setup
  
- <img src="https://raw.githubusercontent.com/leandroSJ/leandroSJ/main/specific-2.png" alt="home-os">
+ <img src="https://raw.githubusercontent.com/leandroSJ/leandroSJ/main/os-home-2.png" alt="home-os">
 
- > I admit it's not much, but I can be very productive with these settings, if you can do shit on a shitty pc, you'll do shit on a top pc, if you learn to optimize your apps and programs, and if you know how to configure one machine from scratch and optimize it for your everyday use, so you can do anything on any machine
- 
- 
- ### Environment development
- 
- <img src="https://raw.githubusercontent.com/leandroSJ/leandroSJ/main/lunar_vim-1.png" alt="lunar vim editor">
- 
- > looking for an alternative to vscode I found this fork of the vim editor, but more updated with lsp servers, I feel like I'm using vscode with some more features.
+ > So after many years suffering with the old configuration still available here for the curious https://github.com/leandroSJ/leandroSJ/blob/main/specific-2.png. I improved my setup a little and opted for a relatively good pc, this new setup will allow me several new projects.
