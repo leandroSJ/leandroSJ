@@ -12,7 +12,12 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Leandro_skils-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
+  <a href="https://github.com/leandroSJ/diceRoller"</a>
+  <img align="center" alt="Leandro_skils-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">  
 </div>
+
+
+  
   
   ##
  
