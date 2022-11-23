@@ -37,4 +37,8 @@
 <img src="https://cdn.dribbble.com/users/363821/screenshots/3329508/media/c6bcd3e0db9e5d03fa06c3aef5d5ef2f.gif" height="280em" target="_blank"/>
 </div>
 
-![Snake animation](https://github.com/leandroSJ/leandroSJ/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+
+  ![Snake animation](https://github.com/leandroSJ/leandroSJ/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
