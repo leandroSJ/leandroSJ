@@ -8,7 +8,7 @@ on:
 jobs:
   build:
     name: Jobs to update datas
-    runs-on: Archlinux
+    runs-on: pop os
     steps:
       # Snake Animation
       - uses: Platane/snk@master
