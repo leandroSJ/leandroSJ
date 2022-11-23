@@ -1,41 +1,40 @@
-# Welcome, this is my workstation to study programming.
-- [x] I live in Brazil 
-- [X] I am a native Portuguese speaker
-- [x] I am learning English
-- [x] I’m studying Computer Science
-- [x] exposure to the language everyday, sorry for the bad grammar.
- 
- <div>
-  <a href="https://github.com/leandroSJ">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandroSJ&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroSJ&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Leandro_skils-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
-  <a href="https://github.com/leandroSJ/diceRoller"</a>
-  <img align="center" alt="Leandro_skils-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">  
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=2986&pause=2000&color=5672F7&background=FF0C0C00&width=700&lines=Discipline!;Strenght!;Determination!;The+strongest+sword+is+forged+in+the+hottest+fire.)](https://git.io/typing-svg)
+
+<div align="center">
+
+![Carol's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandroSJ&show_icons=true&text_bold&theme=gotham)
+<img height="195em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=leandroSJ&langs_count=10&layout=compact&theme=gotham"/>
 
 
-  
-  
-  ##
- 
-<div>   
-  <a href="https://www.instagram.com/leandro_sjesus/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:leandro.dejesus@outlook.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
+
+
+<p>
+<div align="center">
+  <img align="center" alt="Carol-Js" height="60"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"target="_blank">
+  <img align="center" alt="Carol-HTML" height="60"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"target="_blank">
+  <img align="center" alt="Carol-CSS" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"target="_blank">
+  <img align="center" alt="Carol-Python" height="60"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"target="_blank">
+  <img align="center" alt="Carol-C" height="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />   
+  <img align="center" alt="Carol-MySQL" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+   
 </div>
 
- ### OS
+<p>
+  </a>
+  <div align="center">
+  <img align="center" alt="Carol-conf" src="https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white" height="30" target="_blank"/>
+  <img align="center" alt="Carol-conf" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="30" target="_blank"/>
+   <img align="center" alt="Carol-conf" src="https://avatars.githubusercontent.com/u/4673648?s=200&v=4" height="40" target="_blank"/> 
+ <img align="center" alt="Carol-conf" src="https://duckduckgo.com/i/15de88a3.png" height="40" target="_blank"/>  
+   
+<p>
+<div align="center">  
+  <a href="https://www.linkedin.com/in/leandrovsc" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/ height="30" >
+    </p>    
+  </a>           
 
-<!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
- 
-<img src="https://raw.githubusercontent.com/leandroSJ/leandroSJ/main/desktop.png" alt="home-os">
+  <div align="center">
+<img src="https://cdn.dribbble.com/users/363821/screenshots/3329508/media/c6bcd3e0db9e5d03fa06c3aef5d5ef2f.gif" height="280em" target="_blank"/>
+</div>
 
-> Back to the roots, after a small technical problem with my old and warrior notebook, I came back with a new configuration and a new operating system, I must admit that I haven't been very pleased with pop-os it changes a lot of gnome and I particularly don't like it , I like classic gnome with my own modifications and shortcuts customized by me to satisfy my personal taste, I'm seriously thinking about going back to Arch, for now I have a 120gb ssd I intend to upgrade to a 500gb nvme ssd in the meantime I'm preparing my temporary development environment.
-### My setup
- 
- <img src="https://raw.githubusercontent.com/leandroSJ/leandroSJ/main/os-home-2.png" alt="home-os">
-
- > So after many years suffering with the old configuration still available here for the curious https://github.com/leandroSJ/leandroSJ/blob/main/specific-2.png. I improved my setup a little and opted for a relatively good pc, this new setup will allow me several new projects.
+![Snake animation](https://github.com/leandroSJ/leandroSJ/blob/output/github-contribution-grid-snake.svg)
