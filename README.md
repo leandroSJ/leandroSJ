@@ -29,7 +29,7 @@
    
 <p>
 <div align="center">  
-  <a href="https://www.linkedin.com/in/leandrovsc" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/ height="30" >
+  <a href="https://www.linkedin.com/in/leandro-de-jesus-7a82ab19a/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/ height="30" >
     </p>    
   </a>           
 
