@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Leandro GitHub stats](https://github-readme-stats.vercel.app/api?username=leandroSJ&show_icons=true&text_bold&theme=gotham)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=leandroSJ&show_icons=true&text_bold&theme=gotham)
 <img height="195em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=leandroSJ&langs_count=10&layout=compact&theme=gotham"/>
 
 
