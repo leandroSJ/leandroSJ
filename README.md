@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Carol's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandroSJ&show_icons=true&text_bold&theme=gotham)
+![Leandro GitHub stats](https://github-readme-stats.vercel.app/api?username=leandroSJ&show_icons=true&text_bold&theme=gotham)
 <img height="195em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=leandroSJ&langs_count=10&layout=compact&theme=gotham"/>
 
 
@@ -10,20 +10,18 @@
 
 <p>
 <div align="center">
-  <img align="center" alt="Carol-Js" height="60"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"target="_blank">
-  <img align="center" alt="Carol-HTML" height="60"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"target="_blank">
-  <img align="center" alt="Carol-CSS" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"target="_blank">
-  <img align="center" alt="Carol-Python" height="60"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"target="_blank">
-  <img align="center" alt="Carol-C" height="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />   
-  <img align="center" alt="Carol-MySQL" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Leandro-Js" height="60"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"target="_blank">
+  <img align="center" alt="Leandro-HTML" height="60"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"target="_blank">
+  <img align="center" alt="Leandro-CSS" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"target="_blank">
+  <img align="center" alt="CLeandro-Python" height="60"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"target="_blank">
+  <img align="center" alt="Leandro-C" height="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />     
    
 </div>
 
 <p>
   </a>
   <div align="center">
-  <img align="center" alt="Carol-conf" src="https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white" height="30" target="_blank"/>
-  <img align="center" alt="Carol-conf" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="30" target="_blank"/>
+  <img align="center" alt="Carol-conf" src="https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white" height="30" target="_blank"/>  
    <img align="center" alt="Carol-conf" src="https://avatars.githubusercontent.com/u/4673648?s=200&v=4" height="40" target="_blank"/> 
  <img align="center" alt="Carol-conf" src="https://duckduckgo.com/i/15de88a3.png" height="40" target="_blank"/>  
    
