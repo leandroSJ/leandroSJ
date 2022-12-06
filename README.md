@@ -40,3 +40,6 @@
   ![Snake animation](https://github.com/leandroSJ/leandroSJ/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandrosj&repo=Arius-Sistemas-Backup-NFCE-v3.0 )](https://github.com/leandrosj/Arius-Sistemas-Backup-NFCE-v3.0)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandrosj&repo=practice-c)](https://github.com/leandrosj/practice-c)
