@@ -17,7 +17,6 @@
   <img align="center" alt="Leandro-C" height="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />     
    
 </div>
-
 <p>
   </a>
   <div align="center">
