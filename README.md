@@ -2,11 +2,8 @@
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=leandroSJ&show_icons=true&text_bold&theme=gotham)<br>
-<img height="195em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=leandroSJ&layout=compact&theme=gotham"/>
-
-
-
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=leandroSJ&show_icons=true&include_all_commits=true&theme=radical" alt="Leandro SJ github stats" /></a> <br><br>
+  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leandroSJ&layout=compact&theme=gotham"/> 
 
 <p>
 <div align="center">
