@@ -5,8 +5,8 @@
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Java to frontend development using React.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=leandroSJ&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-leandroSJ.vercel.app/api/top-langs/?username=leandroSJ&show_icons=true&theme=radical&layout=compact" />
+<img width=100% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=leandroSJ&theme=radical&mode=weekly" />
+
  </div>
  
  &nbsp;
@@ -17,7 +17,7 @@
 ## My Skills
 
 #### Main Stack:
-![Java](https://img.shields.io/badge/Java-4285F4?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-%23E4405F?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
@@ -27,18 +27,18 @@
 
 #### Secondary Stack:
 
-
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
 #### Studying in this moment:
 
-![Java](https://img.shields.io/badge/Java-4285F4?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-%23E4405F?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
 #### Databases:
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-4EA94B?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
 #### Workstation Tools:
