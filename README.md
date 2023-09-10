@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/leandroSJ/leandroSJ/blob/main/logo_banner.png" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/leandroSJ/leandroSJ/blob/main/g8.webp" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Java to frontend development using React.</p>&nbsp;
