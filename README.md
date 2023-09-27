@@ -43,8 +43,6 @@
 
 #### Workstation Tools:
 
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=visualstudiocode&logoColor=white)&nbsp;
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 ![ArchLinux](https://img.shields.io/badge/ArchLinux-316192?style=for-the-badge&logo=archlinux&logoColor=white)&nbsp;
 ![IntelliJ Idea](https://img.shields.io/badge/IntelliJIDEA-316192?style=for-the-badge&logo=intellijidea&logoColor=white)&nbsp;
 
