@@ -2,7 +2,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/leandroSJ/leandroSJ/blob/main/g8.webp" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> backend development</p>&nbsp;
+<p align="center">I ❤️ solve great challenges using tech. <br><br> Backend</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=100% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=leandroSJ&theme=radical&mode=weekly" />
