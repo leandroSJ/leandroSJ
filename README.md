@@ -5,8 +5,7 @@
 <p align="center">I like challenges and solving problems and bugs using tech. <br><br> Backend</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=100% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=leandroSJ&theme=radical&mode=weekly" />
-
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=leandrosj&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Leandro SJ github status" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroSJ&layout=compact&theme=buefy&hide_border=true" /></a>
  </div>
  
  &nbsp;
@@ -36,8 +35,10 @@
 
 #### Workstation Tools:
 
-![ArchLinux](https://img.shields.io/badge/ArchLinux-316192?style=for-the-badge&logo=archlinux&logoColor=white)&nbsp;
+![ArchLinux](https://img.shields.io/badge/ArchLinux-gnome46-316192?style=for-the-badge&logo=archlinux&logoColor=white)&nbsp;
 ![IntelliJ Idea](https://img.shields.io/badge/IntelliJIDEA-316192?style=for-the-badge&logo=intellijidea&logoColor=white)&nbsp;
+<img src="https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white">  <img/>
+<img src ="https://img.shields.io/badge/AMD-Radeon_RX_550_4GB-ED1C24?style=for-the-badge&logo=amd&logoColor=white"><img/>
 
 
 
