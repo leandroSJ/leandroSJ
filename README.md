@@ -3,9 +3,23 @@
 `🚀 Java developer | ☁️ tech Enthusiast | ⚙️ Backend`
 <p>I like challenges and solving problems and bugs using tech</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
+
  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=leandrosj&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Leandro SJ github status" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroSJ&layout=compact&theme=buefy&hide_border=true" /></a>
- </div>
+ 
+
+ 
+#### Top Repositories
+
+
+<a href="https://github.com/leandrosj/praticando-JAVA">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leandrosj&repo=praticando-JAVA&theme=buefy" />
+</a>
+<a href="https://github.com/leandroSJ/Arius-Sistemas-Backup-NFCE-v4.0">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leandrosj&repo=Arius-Sistemas-Backup-NFCE-v4.0&theme=buefy" />
+</a>
+
+<br />
+<br />
  
  &nbsp;
  &nbsp;
@@ -55,9 +69,6 @@
 <div> 
 <a href = "mailto:leandro.dejesus@outlook.com.br"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/leandroSJ" target="_blank" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
-</div>&nbsp;&nbsp;
- 
-
-  
+</div>&nbsp;&nbsp; 
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
