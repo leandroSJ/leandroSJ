@@ -17,6 +17,12 @@
 <a href="https://github.com/leandroSJ/Arius-Sistemas-Backup-NFCE-v4.0">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leandrosj&repo=Arius-Sistemas-Backup-NFCE-v4.0&theme=buefy" />
 </a>
+<a href="https://github.com/leandroSJ/Atualizacao_site_Casadasfarinhas">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leandrosj&repo=Atualizacao_site_Casadasfarinhas&theme=buefy" />
+</a>
+<a href="https://github.com/leandroSJ/Arius-sistemas-automacao-para-ERP">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leandrosj&repo=Arius-sistemas-automacao-para-ERP&theme=buefy" />
+</a>
 
 <br />
 <br />
