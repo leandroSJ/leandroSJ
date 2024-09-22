@@ -1,6 +1,6 @@
 # <img src="assets/Hi.gif" width="40px"> Hi, I'm [**Leandro SJ**](https://socrabytes.github.io/) 
 
-`🚀 Java developer | ☁️ tech Enthusiast | ⚙️ Backend`
+`🚀 Leaning Java | ☁️ tech Enthusiast | ⚙️ Backend`
 <p>I like challenges and solving problems and bugs using tech</p>&nbsp;
 
 
