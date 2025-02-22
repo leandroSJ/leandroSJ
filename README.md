@@ -1,10 +1,10 @@
-# <img src="assets/Hi.gif" width="40px"> Hi, I'm [**Leandro SJ**](https://socrabytes.github.io/) 
+# <img src="assets/Hi.gif" width="40px"> Olá, Eu sou [**Leandro SJ**](https://socrabytes.github.io/) 
 
-`🚀 Learning Java | ☁️ tech Enthusiast | ⚙️ Backend`
-<p>I like challenges and solving problems and bugs using tech</p>&nbsp;
+`🚀 Estudando Java | ☁️ entusiasta de tecnologia | ⚙️ Backend`
+<p>Gosto de desafios e resolver BUGS usando tecnologia</p>&nbsp;
 
 
- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=leandrosj&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Leandro SJ github status" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroSJ&layout=compact&theme=buefy&hide_border=true" /></a>
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=leandrosj&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&locale=pt-br" alt="Leandro SJ github status" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroSJ&layout=compact&theme=buefy&hide_border=true&locale=pt-br" /></a>
  
 
  
