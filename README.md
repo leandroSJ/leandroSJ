@@ -1,4 +1,4 @@
-# <img src="assets/Hi.gif" width="40px"> Olá, Eu sou [**Leandro SJ**](https://socrabytes.github.io/) 
+# <img src="assets/Hi.gif" width="50px"> Olá, Eu sou [**Leandro SJ**](https://socrabytes.github.io/) 
 
 `🚀 Estudando Java | ☁️ entusiasta de tecnologia | ⚙️ Backend`
 <p>Gosto de desafios e resolver BUGS usando tecnologia</p>&nbsp;
