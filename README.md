@@ -4,7 +4,7 @@
 <p>Gosto de desafios e resolver BUGS usando tecnologia</p>&nbsp;
 
 
- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=leandrosj&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&locale=pt-br" alt="Leandro SJ github status" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroSJ&layout=compact&theme=buefy&hide_border=true&locale=pt-br" /></a>
+ <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=leandrosj&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&locale=pt-br" alt="Leandro SJ github status" /></a> <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroSJ&layout=compact&theme=buefy&hide_border=true&locale=pt-br" /></a>
  
 
  
@@ -77,4 +77,3 @@
 <a href="https://www.linkedin.com/in/leandroSJ" target="_blank" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
 </div>&nbsp;&nbsp; 
   
-<!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>  -->
