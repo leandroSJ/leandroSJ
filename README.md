@@ -1,41 +1,41 @@
 # <img src="assets/Hi.gif" width="45px"> Olá! Eu sou **Leandro SJ**
 
-### 👨‍💻 Analista de Sistemas | Automação | Java Backend | Linux | SQL
+### Analista de Sistemas | Automação | Java Backend | Linux | SQL
 
 Atuo com implantação e suporte de sistemas para varejo e desenvolvo ferramentas para **automatizar processos, integrar sistemas e resolver problemas reais de operação**.
 
-- ⚙️ Experiência com ERP, PDV, implantação e troubleshooting
-- 🐧 Linux, redes, SQL e automação fazem parte do meu dia a dia
-- ☕ Atualmente aprofundando conhecimentos em Java e Spring Boot
-- 📱 Também desenvolvo aplicações Android com Kotlin
+- Experiência com ERP, PDV, implantação e troubleshooting
+- Linux, redes, SQL e automação fazem parte do meu dia a dia
+- Atualmente aprofundando conhecimentos em Java e Spring Boot
+- Também desenvolvo aplicações Android com Kotlin
 
 ---
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
-### 🚗 [classicTracker](https://github.com/leandroSJ/classicTracker)
+### [classicTracker](https://github.com/leandroSJ/classicTracker)
 Aplicativo Android para acompanhar consumo de combustível, autonomia, abastecimentos, rotas GPS, custo por quilômetro e manutenção do veículo.
 
 **Kotlin • Android • Jetpack Compose • Room • GPS**
 
-### ⚙️ [Automação de processos ERP](https://github.com/leandroSJ/Arius-sistemas-automacao-para-ERP)
+### [Automação de processos ERP](https://github.com/leandroSJ/Arius-sistemas-automacao-para-ERP)
 Conjunto de automações em Python criado para reduzir tarefas repetitivas em operações de ERP no varejo, incluindo processamento de XML, planilhas, relatórios e rotinas operacionais.
 
 **Python • XML • Excel • Automação • ERP**
 
-### 💾 [Backup automatizado de NFC-e](https://github.com/leandroSJ/Arius-Sistemas-Backup-NFCE-v4.0)
+### [Backup automatizado de NFC-e](https://github.com/leandroSJ/Arius-Sistemas-Backup-NFCE-v4.0)
 Ferramenta para automatizar backup de XMLs NFC-e, arquivos de configuração e outros dados importantes do ambiente de operação.
 
 **Python • Backup • Google Drive • Automação**
 
-### 📋 [Checklist de Implantação](https://github.com/leandroSJ/checklist-implantacao)
+### [Checklist de Implantação](https://github.com/leandroSJ/checklist-implantacao)
 Ferramenta web para padronizar implantações de sistemas, acompanhar dezenas de etapas técnicas e visualizar o progresso em tempo real.
 
 **JavaScript • HTML • CSS • Chart.js**
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 ### Desenvolvimento
 
@@ -55,7 +55,7 @@ Ferramenta web para padronizar implantações de sistemas, acompanhar dezenas de
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
-### 📚 Atualmente estudando
+### Atualmente estudando
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -63,7 +63,7 @@ Ferramenta web para padronizar implantações de sistemas, acompanhar dezenas de
 
 ---
 
-## 📊 GitHub
+## GitHub
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=leandroSJ&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Leandro SJ" />
@@ -80,7 +80,7 @@ Ferramenta web para padronizar implantações de sistemas, acompanhar dezenas de
 
 ---
 
-## 📫 Contato
+## Contato
 
 <a href="mailto:leandro.dejesus@outlook.com.br">
   <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white">
